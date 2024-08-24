@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Mar 20 10:59:48 2024
+
+@author: iamrs
+"""
+
+import turtle
+
+turtle.forward(43)
+turtle.circle(32444444444254225645227469449886875442869874560077028497138049987507432870924870957328093405879)
